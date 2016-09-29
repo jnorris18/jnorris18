@@ -1,0 +1,104 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<style>
+  h1 {
+    font-size: 55px;
+   
+  }
+  .purple-text {
+    color: purple;
+  }
+  h3 {
+    font-size: 15px
+  }
+  .thick-white-border {
+    border-color: white;
+    border-width: 80px;
+    border-style: solid;
+  }
+  h4 {
+    font-size: 20px
+  }
+  h5 {
+    font-size: 55px
+  }
+  ul { 
+    margin:0 0 1em 15px;
+    padding: 0;
+    list-style-position: inside;
+    }
+  h6 {
+    font-size: 30px
+  }
+  h7 {
+    font-size: 40px;
+   
+  }
+  .smaller-image {
+    width: 400px
+  }
+  
+ 
+</style>
+
+<h1><p class="purple-text text-center">Kobe "Bean" Bryant</p></h1>
+
+<h2 class="text-center">The Black Mamba</h2>
+
+<center>
+<a href="https://www.youtube.com/watch?v=Pqbi7OnkjWI">
+  <button class="btn btn-primary">Click Here for Highlights</button></a></center>
+
+
+<div class="text-center"><img class="thick-white-border" src="http://nbatitlechase.com/blog/wp-content/uploads/2016/04/PHOTO-Kobe-24-Hugging-Kobe-8.jpg" alt="kobe" style="width: 40%"</img></div>
+
+<h4><p class="text-center" >The two phases of Kobe's career are represented above</p></h4>
+
+<center>
+<a href="http://www.kobebryant.com/kobe-bryant-merchandise.php">
+  <button class="btn btn-primary btn-lg">Kobe's Website</button></a></center>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<body style="background-color: #E6E6FA"</body>
+
+<h5 class="text-center" >TIMELINE OF KOBE'S CAREER</h5>
+<ul class="text-center">
+  <li><strong>1996</strong> - Vlade Divac is traded to Philidelphia for 17 year old Kobe Bryant</li>
+  <li><strong>1997</strong> - In his first season Kobe gains fans by winning the Slam Dunk Contest
+  <li><strong>1998</strong> - Becomes youngest NBA All-Star starter
+  <li><strong>2000</strong> - Pulls in double double with 26 points 10 rebounds to win game 6 of the NBA finals against the Pacers to win first championship</li>
+  <li><strong>2001</strong> - Becomes top voted for NBA All-Star game
+  <li><strong>2002</strong> - Drops 30 in game 7 of NBA finals against the Kings, and Lakers win their thrid consecutive title</li>
+  <li><strong>2003</strong> - Bryant is charged with sexual assault</li>
+  <li><strong>2004</strong> - Resigns with Lakers after many uncertainties</li>
+  <li><strong>2005</strong> - Wins leagues leading scorer award with 27.6 points per game</li>
+  <li><strong>2006</strong> - Becomes 2nd leading scorer(in one game) after scoring 81 points at a home game against the Raptors</li>
+  <li><strong>2007</strong> - Wins another scoring title with 31.6 points per game</li>
+  <li><strong>2008</strong> - Wins first and only MVP Award</li>
+  <li><strong>2008</strong> - Wins first Gold olympic medal</li>
+  <li><strong>2010</strong> - Scores 44 against the Grizzlies and passes Jerry West for all time leading scorer for Lakers</li>
+  <li><strong>2010</strong> - Lakers beat celtics in Game 7 of NBA finals for Kobe's fifth ring</li>
+  <li><strong>2013</strong> - 15th All-Star game apperance, and passes Wilt Chamberlain for fourth in all time scoring</li>
+  <li><strong>2014</strong> - Takes his spot as thrid all time scorer</li>
+  <li><strong>2016</strong> - Takes his fair-well tour faceing each team for the last time before retirement</li>
+</ul>
+<h6><p class="text-center purple-text">"Everything negative - pressure, challenges - is all an opportunity for me to rise." -Kobe Bryant</p></h6>
+<br>
+<h7 class="text-center">
+  
+<center><img class="smaller-image" src="https://whatsthefuzzabout.files.wordpress.com/2015/11/kobe-bryant.jpg"></img></center>
+       
+<p>More about Kobe Bryant can be read by clicking <a href="https://en.wikipedia.org/wiki/Kobe_Bryant">here</p></a></h7>
+
+  
+  
+  
+  
+  
+
+
+
